@@ -40,6 +40,8 @@ Fashion-MNIST is 28x28 grayscale and perfectly centered; real catalog photos nee
 
 * `fashion_mnist_deep_learning.ipynb` — the full analysis, end to end
 * `report.pdf` — the complete writeup with figures, confusion matrix, and threshold analysis
+* Run it on Kaggle: [Fashion-MNIST: MLP vs CNN vs Regularized CNN](https://www.kaggle.com/code/coldrazer/fashion-mnist-mlp-vs-cnn-vs-regularized-cnn)
+* Dataset and trained models on Kaggle: [Fashion-MNIST CNN Models and Results](https://www.kaggle.com/datasets/coldrazer/fashion-mnist-cnn-models-and-results)
 
 ## Reproduce
 
